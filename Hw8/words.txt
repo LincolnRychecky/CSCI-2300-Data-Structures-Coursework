@@ -1,0 +1,5 @@
+Greg 10 100
+Tom 5 60
+Jim 4 30
+Atlas 10 50
+Lincoln 3 15
